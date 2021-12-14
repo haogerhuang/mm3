@@ -1,4 +1,6 @@
+# ENPM662 Final Project Repository
 # Clone mm3 under ~/catkin_src/src and type the following command
+
 
 cd ~/catkin_ws
 catkin_make 
